@@ -1,0 +1,12 @@
+
+
+NO.		 DATA TYPE		 SIZE		DEFAULT VALUE		   RANGE
+1		  boolean		1 bit			False			true/false
+2		  char			2 bytes			\u0000			\u0000 - \uffff
+3		  byte 			1 byte			0				-128 – 127
+4		  short			2 bytes			0				-32768 – 32767
+5		  int 			4 bytes			0				-2^31 – 2^31
+6		  long 			8 byte			0L				-2^63 – 2^63
+7		  float 		4 byte			0.0F			Unlimited
+8		  double 		8 byte			0.0				Unlimited
+
